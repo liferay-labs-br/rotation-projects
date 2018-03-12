@@ -4,8 +4,8 @@
 
 ## Descriptions:
 
-> Projeto_Rotação_MarcelaCunha:
- - Área de origem: back-end.
- - Área de destino: front-end.
- - Metal-tutorial-todo.
-    - Página com um TODO LIST feito em metal. 
+> Metal TODO List by @marcelabc:
+ - Incoming area: back-end
+ - Rotating area: front-end
+ - Metal-tutorial-todo
+    - Página com um TODO LIST feito em metal
